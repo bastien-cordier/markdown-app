@@ -1,2 +1,2 @@
 # markdown-app
-Entraînement ReactJS
+Entraînement ReactJS suite à un cours sur Udemy
